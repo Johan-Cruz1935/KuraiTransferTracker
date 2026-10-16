@@ -1,0 +1,136 @@
+﻿{
+  "transfers": [
+    {
+      "external_id": "TAG1537",
+      "business_date": "2026-08-10",
+      "origin_warehouse_id": "1",
+      "destination_warehouse_id": "10",
+      "items": [
+        {
+          "product_id": "405",
+          "quantity": "4.0000"
+        },
+        {
+          "product_id": "59",
+          "quantity": "2.0000"
+        }
+      ]
+    },
+    {
+      "external_id": "TAG1548",
+      "business_date": "2026-08-11",
+      "origin_warehouse_id": "1",
+      "destination_warehouse_id": "10",
+      "items": [
+        {
+          "product_id": "89",
+          "quantity": "1.0000"
+        }
+      ]
+    },
+    {
+      "external_id": "TAG1574",
+      "business_date": "2026-08-13",
+      "origin_warehouse_id": "1",
+      "destination_warehouse_id": "10",
+      "items": [
+        {
+          "product_id": "170",
+          "quantity": "3.0000"
+        },
+        {
+          "product_id": "505",
+          "quantity": "1.0000"
+        }
+      ]
+    },
+    {
+      "external_id": "TAG1614",
+      "business_date": "2026-08-16",
+      "origin_warehouse_id": "1",
+      "destination_warehouse_id": "10",
+      "items": [
+        {
+          "product_id": "6",
+          "quantity": "1.0000"
+        }
+      ]
+    },
+    {
+      "external_id": "TAG1645",
+      "business_date": "2026-08-19",
+      "origin_warehouse_id": "1",
+      "destination_warehouse_id": "10",
+      "items": [
+        {
+          "product_id": "136",
+          "quantity": "1.0000"
+        }
+      ]
+    },
+    {
+      "external_id": "TAG1790",
+      "business_date": "2026-09-01",
+      "origin_warehouse_id": "1",
+      "destination_warehouse_id": "10",
+      "items": [
+        {
+          "product_id": "65",
+          "quantity": "1.0000"
+        },
+        {
+          "product_id": "280",
+          "quantity": "8.7200"
+        }
+      ]
+    },
+    {
+      "external_id": "TAG1826",
+      "business_date": "2026-09-04",
+      "origin_warehouse_id": "1",
+      "destination_warehouse_id": "10",
+      "items": [
+        {
+          "product_id": "491",
+          "quantity": "1.0000"
+        }
+      ]
+    },
+    {
+      "external_id": "TAG1966",
+      "business_date": "2026-09-17",
+      "origin_warehouse_id": "1",
+      "destination_warehouse_id": "10",
+      "items": [
+        {
+          "product_id": "404",
+          "quantity": "5.0000"
+        }
+      ]
+    },
+    {
+      "external_id": "TAG2065",
+      "business_date": "2026-09-26",
+      "origin_warehouse_id": "1",
+      "destination_warehouse_id": "10",
+      "items": [
+        {
+          "product_id": "317",
+          "quantity": "0.5000"
+        }
+      ]
+    },
+    {
+      "external_id": "TAG2084",
+      "business_date": "2026-09-28",
+      "origin_warehouse_id": "1",
+      "destination_warehouse_id": "10",
+      "items": [
+        {
+          "product_id": "89",
+          "quantity": "1.0000"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+﻿{
+  "transfers": [
+    {
+      "external_id": "TAG1172",
+      "business_date": "2026-07-12",
+      "origin_warehouse_id": "1",
+      "destination_warehouse_id": "11",
+      "items": [
+        {
+          "product_id": "302",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "278",
+          "quantity": "1.0000"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,860 @@
+﻿{
+  "transfers": [
+    {
+      "external_id": "TAG2001",
+      "business_date": "2026-09-20",
+      "origin_warehouse_id": "1",
+      "destination_warehouse_id": "17",
+      "items": [
+        {
+          "product_id": "140",
+          "quantity": "18.0000"
+        },
+        {
+          "product_id": "281",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "44",
+          "quantity": "4.0000"
+        },
+        {
+          "product_id": "267",
+          "quantity": "12.0000"
+        },
+        {
+          "product_id": "462",
+          "quantity": "1.0000"
+        },
+        {
+          "product_id": "245",
+          "quantity": "10.0000"
+        },
+        {
+          "product_id": "86",
+          "quantity": "12.1600"
+        },
+        {
+          "product_id": "234",
+          "quantity": "30.0000"
+        },
+        {
+          "product_id": "316",
+          "quantity": "5.0000"
+        },
+        {
+          "product_id": "314",
+          "quantity": "8.7800"
+        },
+        {
+          "product_id": "260",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "206",
+          "quantity": "24.0000"
+        },
+        {
+          "product_id": "386",
+          "quantity": "40.0000"
+        },
+        {
+          "product_id": "65",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "324",
+          "quantity": "1.0000"
+        },
+        {
+          "product_id": "186",
+          "quantity": "3.0000"
+        },
+        {
+          "product_id": "118",
+          "quantity": "60.0000"
+        },
+        {
+          "product_id": "385",
+          "quantity": "5.0000"
+        },
+        {
+          "product_id": "432",
+          "quantity": "4.0000"
+        },
+        {
+          "product_id": "229",
+          "quantity": "15.0000"
+        },
+        {
+          "product_id": "434",
+          "quantity": "7.0000"
+        },
+        {
+          "product_id": "443",
+          "quantity": "1.0000"
+        }
+      ]
+    },
+    {
+      "external_id": "TAG2013",
+      "business_date": "2026-09-21",
+      "origin_warehouse_id": "1",
+      "destination_warehouse_id": "17",
+      "items": [
+        {
+          "product_id": "218",
+          "quantity": "1.0000"
+        },
+        {
+          "product_id": "44",
+          "quantity": "3.0000"
+        },
+        {
+          "product_id": "45",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "264",
+          "quantity": "10.0000"
+        },
+        {
+          "product_id": "245",
+          "quantity": "10.0000"
+        },
+        {
+          "product_id": "326",
+          "quantity": "1.0000"
+        },
+        {
+          "product_id": "389",
+          "quantity": "4.0000"
+        },
+        {
+          "product_id": "348",
+          "quantity": "12.0000"
+        },
+        {
+          "product_id": "86",
+          "quantity": "10.0000"
+        },
+        {
+          "product_id": "234",
+          "quantity": "25.0000"
+        },
+        {
+          "product_id": "316",
+          "quantity": "5.0000"
+        },
+        {
+          "product_id": "314",
+          "quantity": "8.0400"
+        },
+        {
+          "product_id": "386",
+          "quantity": "40.0000"
+        },
+        {
+          "product_id": "206",
+          "quantity": "24.0000"
+        },
+        {
+          "product_id": "269",
+          "quantity": "3.2400"
+        },
+        {
+          "product_id": "65",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "324",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "241",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "437",
+          "quantity": "4.0000"
+        },
+        {
+          "product_id": "385",
+          "quantity": "3.0000"
+        },
+        {
+          "product_id": "239",
+          "quantity": "18.9000"
+        },
+        {
+          "product_id": "238",
+          "quantity": "6.0000"
+        },
+        {
+          "product_id": "271",
+          "quantity": "7.0000"
+        },
+        {
+          "product_id": "171",
+          "quantity": "1.0000"
+        }
+      ]
+    },
+    {
+      "external_id": "TAG2020",
+      "business_date": "2026-09-22",
+      "origin_warehouse_id": "1",
+      "destination_warehouse_id": "17",
+      "items": [
+        {
+          "product_id": "463",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "281",
+          "quantity": "3.0000"
+        },
+        {
+          "product_id": "96",
+          "quantity": "1.0000"
+        },
+        {
+          "product_id": "234",
+          "quantity": "25.0000"
+        },
+        {
+          "product_id": "386",
+          "quantity": "40.0000"
+        },
+        {
+          "product_id": "221",
+          "quantity": "1.0000"
+        }
+      ]
+    },
+    {
+      "external_id": "TAG2028",
+      "business_date": "2026-09-23",
+      "origin_warehouse_id": "1",
+      "destination_warehouse_id": "17",
+      "items": [
+        {
+          "product_id": "45",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "267",
+          "quantity": "13.0000"
+        },
+        {
+          "product_id": "96",
+          "quantity": "6.0000"
+        },
+        {
+          "product_id": "348",
+          "quantity": "6.0000"
+        },
+        {
+          "product_id": "216",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "437",
+          "quantity": "3.0000"
+        },
+        {
+          "product_id": "165",
+          "quantity": "3.0000"
+        },
+        {
+          "product_id": "200",
+          "quantity": "4.0000"
+        },
+        {
+          "product_id": "407",
+          "quantity": "6.0000"
+        },
+        {
+          "product_id": "238",
+          "quantity": "3.0000"
+        },
+        {
+          "product_id": "432",
+          "quantity": "10.0000"
+        },
+        {
+          "product_id": "229",
+          "quantity": "11.0000"
+        },
+        {
+          "product_id": "271",
+          "quantity": "5.0000"
+        },
+        {
+          "product_id": "171",
+          "quantity": "1.0000"
+        },
+        {
+          "product_id": "1",
+          "quantity": "1.0000"
+        }
+      ]
+    },
+    {
+      "external_id": "TAG2029",
+      "business_date": "2026-09-23",
+      "origin_warehouse_id": "1",
+      "destination_warehouse_id": "17",
+      "items": [
+        {
+          "product_id": "281",
+          "quantity": "3.0000"
+        },
+        {
+          "product_id": "44",
+          "quantity": "4.0000"
+        },
+        {
+          "product_id": "45",
+          "quantity": "5.0000"
+        },
+        {
+          "product_id": "96",
+          "quantity": "21.0000"
+        },
+        {
+          "product_id": "264",
+          "quantity": "18.0000"
+        },
+        {
+          "product_id": "245",
+          "quantity": "7.0000"
+        },
+        {
+          "product_id": "221",
+          "quantity": "1.0000"
+        },
+        {
+          "product_id": "327",
+          "quantity": "1.0000"
+        },
+        {
+          "product_id": "389",
+          "quantity": "10.0000"
+        },
+        {
+          "product_id": "86",
+          "quantity": "17.0000"
+        },
+        {
+          "product_id": "234",
+          "quantity": "30.0000"
+        },
+        {
+          "product_id": "316",
+          "quantity": "5.0000"
+        },
+        {
+          "product_id": "314",
+          "quantity": "8.2400"
+        },
+        {
+          "product_id": "65",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "324",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "186",
+          "quantity": "3.0000"
+        },
+        {
+          "product_id": "118",
+          "quantity": "70.0000"
+        },
+        {
+          "product_id": "210",
+          "quantity": "1.0000"
+        },
+        {
+          "product_id": "437",
+          "quantity": "6.0000"
+        },
+        {
+          "product_id": "205",
+          "quantity": "1.0000"
+        },
+        {
+          "product_id": "200",
+          "quantity": "12.0000"
+        },
+        {
+          "product_id": "407",
+          "quantity": "9.0000"
+        },
+        {
+          "product_id": "385",
+          "quantity": "4.0000"
+        },
+        {
+          "product_id": "432",
+          "quantity": "15.0000"
+        },
+        {
+          "product_id": "171",
+          "quantity": "4.0000"
+        },
+        {
+          "product_id": "1",
+          "quantity": "4.0000"
+        }
+      ]
+    },
+    {
+      "external_id": "TAG2041",
+      "business_date": "2026-09-24",
+      "origin_warehouse_id": "1",
+      "destination_warehouse_id": "17",
+      "items": [
+        {
+          "product_id": "463",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "44",
+          "quantity": "4.0000"
+        },
+        {
+          "product_id": "264",
+          "quantity": "24.0000"
+        },
+        {
+          "product_id": "245",
+          "quantity": "10.0000"
+        },
+        {
+          "product_id": "221",
+          "quantity": "1.0000"
+        },
+        {
+          "product_id": "327",
+          "quantity": "1.0000"
+        },
+        {
+          "product_id": "326",
+          "quantity": "1.0000"
+        },
+        {
+          "product_id": "212",
+          "quantity": "4.0000"
+        },
+        {
+          "product_id": "389",
+          "quantity": "4.0000"
+        },
+        {
+          "product_id": "234",
+          "quantity": "15.0000"
+        },
+        {
+          "product_id": "314",
+          "quantity": "8.3600"
+        },
+        {
+          "product_id": "272",
+          "quantity": "3.1000"
+        },
+        {
+          "product_id": "89",
+          "quantity": "1.0000"
+        },
+        {
+          "product_id": "214",
+          "quantity": "4.0000"
+        },
+        {
+          "product_id": "65",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "118",
+          "quantity": "15.0000"
+        },
+        {
+          "product_id": "385",
+          "quantity": "4.0000"
+        }
+      ]
+    },
+    {
+      "external_id": "TAG2051",
+      "business_date": "2026-09-25",
+      "origin_warehouse_id": "1",
+      "destination_warehouse_id": "17",
+      "items": [
+        {
+          "product_id": "281",
+          "quantity": "3.0000"
+        },
+        {
+          "product_id": "45",
+          "quantity": "1.0000"
+        },
+        {
+          "product_id": "221",
+          "quantity": "1.0000"
+        },
+        {
+          "product_id": "7",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "348",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "86",
+          "quantity": "10.0000"
+        },
+        {
+          "product_id": "234",
+          "quantity": "35.0000"
+        },
+        {
+          "product_id": "316",
+          "quantity": "4.0000"
+        },
+        {
+          "product_id": "314",
+          "quantity": "7.3800"
+        },
+        {
+          "product_id": "260",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "206",
+          "quantity": "24.0000"
+        },
+        {
+          "product_id": "386",
+          "quantity": "40.0000"
+        },
+        {
+          "product_id": "214",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "186",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "241",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "116",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "229",
+          "quantity": "4.0000"
+        },
+        {
+          "product_id": "434",
+          "quantity": "10.0000"
+        }
+      ]
+    },
+    {
+      "external_id": "TAG2058",
+      "business_date": "2026-09-26",
+      "origin_warehouse_id": "1",
+      "destination_warehouse_id": "17",
+      "items": [
+        {
+          "product_id": "463",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "281",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "44",
+          "quantity": "3.0000"
+        },
+        {
+          "product_id": "45",
+          "quantity": "5.0000"
+        },
+        {
+          "product_id": "359",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "96",
+          "quantity": "25.0000"
+        },
+        {
+          "product_id": "245",
+          "quantity": "10.0000"
+        },
+        {
+          "product_id": "221",
+          "quantity": "1.0000"
+        },
+        {
+          "product_id": "327",
+          "quantity": "1.0000"
+        },
+        {
+          "product_id": "326",
+          "quantity": "1.0000"
+        },
+        {
+          "product_id": "389",
+          "quantity": "10.0000"
+        },
+        {
+          "product_id": "314",
+          "quantity": "7.6600"
+        },
+        {
+          "product_id": "206",
+          "quantity": "24.0000"
+        },
+        {
+          "product_id": "386",
+          "quantity": "40.0000"
+        },
+        {
+          "product_id": "214",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "298",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "118",
+          "quantity": "90.0000"
+        },
+        {
+          "product_id": "437",
+          "quantity": "6.0000"
+        },
+        {
+          "product_id": "200",
+          "quantity": "20.0000"
+        },
+        {
+          "product_id": "407",
+          "quantity": "15.0000"
+        },
+        {
+          "product_id": "385",
+          "quantity": "3.0000"
+        },
+        {
+          "product_id": "432",
+          "quantity": "25.0000"
+        },
+        {
+          "product_id": "171",
+          "quantity": "5.0000"
+        },
+        {
+          "product_id": "1",
+          "quantity": "4.0000"
+        }
+      ]
+    },
+    {
+      "external_id": "TAG2070",
+      "business_date": "2026-09-27",
+      "origin_warehouse_id": "1",
+      "destination_warehouse_id": "17",
+      "items": [
+        {
+          "product_id": "463",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "140",
+          "quantity": "18.0000"
+        },
+        {
+          "product_id": "281",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "44",
+          "quantity": "4.0000"
+        },
+        {
+          "product_id": "267",
+          "quantity": "13.0000"
+        },
+        {
+          "product_id": "96",
+          "quantity": "6.0000"
+        },
+        {
+          "product_id": "264",
+          "quantity": "28.0000"
+        },
+        {
+          "product_id": "245",
+          "quantity": "10.0000"
+        },
+        {
+          "product_id": "221",
+          "quantity": "1.0000"
+        },
+        {
+          "product_id": "330",
+          "quantity": "1.0000"
+        },
+        {
+          "product_id": "389",
+          "quantity": "4.0000"
+        },
+        {
+          "product_id": "86",
+          "quantity": "20.0000"
+        },
+        {
+          "product_id": "390",
+          "quantity": "4.0000"
+        },
+        {
+          "product_id": "314",
+          "quantity": "8.0400"
+        },
+        {
+          "product_id": "260",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "206",
+          "quantity": "12.0000"
+        },
+        {
+          "product_id": "386",
+          "quantity": "40.0000"
+        },
+        {
+          "product_id": "272",
+          "quantity": "3.0200"
+        },
+        {
+          "product_id": "65",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "324",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "385",
+          "quantity": "12.0000"
+        },
+        {
+          "product_id": "239",
+          "quantity": "18.9000"
+        },
+        {
+          "product_id": "229",
+          "quantity": "24.0000"
+        },
+        {
+          "product_id": "434",
+          "quantity": "24.0000"
+        }
+      ]
+    },
+    {
+      "external_id": "TAG2079",
+      "business_date": "2026-09-28",
+      "origin_warehouse_id": "1",
+      "destination_warehouse_id": "17",
+      "items": [
+        {
+          "product_id": "281",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "44",
+          "quantity": "3.0000"
+        },
+        {
+          "product_id": "45",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "245",
+          "quantity": "10.0000"
+        },
+        {
+          "product_id": "348",
+          "quantity": "14.0000"
+        },
+        {
+          "product_id": "234",
+          "quantity": "30.0000"
+        },
+        {
+          "product_id": "314",
+          "quantity": "8.1000"
+        },
+        {
+          "product_id": "324",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "216",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "437",
+          "quantity": "4.0000"
+        },
+        {
+          "product_id": "1",
+          "quantity": "1.0000"
+        },
+        {
+          "product_id": "165",
+          "quantity": "2.0000"
+        },
+        {
+          "product_id": "385",
+          "quantity": "3.0000"
+        },
+        {
+          "product_id": "238",
+          "quantity": "7.0000"
+        },
+        {
+          "product_id": "229",
+          "quantity": "6.0000"
+        },
+        {
+          "product_id": "434",
+          "quantity": "1.0000"
+        },
+        {
+          "product_id": "271",
+          "quantity": "5.0000"
+        },
+        {
+          "product_id": "435",
+          "quantity": "1.0000"
+        }
+      ]
+    }
+  ]
+}
