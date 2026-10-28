@@ -1,0 +1,18 @@
+Logging:
+  LogLevel:
+    Default: Information
+    Microsoft.Hosting.Lifetime: Information
+
+TrackerSettings:
+  SourceConnectionString: "Server=localhost;Database=KURAI2026;User Id=usr_kurai_readonly;Password=KuraiReadOnly#2026!;TrustServerCertificate=True;ApplicationIntent=ReadOnly;"
+  MasterConnectionString: "Server=localhost;Database=KuraiTrackingDB;User Id=usr_kurai_tracking_admin;Password=KuraiTrackingAdmin#2026!;TrustServerCertificate=True;"
+  LocalDatabaseName: "KuraiTrackingDB"
+  LocalBackupConnectionString: "Server=localhost;Database=KuraiTrackingDB;User Id=usr_kurai_tracking_admin;Password=KuraiTrackingAdmin#2026!;TrustServerCertificate=True;"
+  PollingIntervalSeconds: 30
+  UseFolioAsExternalId: true
+  UseProductKeyAsProductId: false
+  ApiBaseUrl: "http://192.168.1.111:8000"
+  SyncEndpoint: "/transfers/sync"
+  AgentApiKey: "replace_with_a_long_random_agent_key"
+  StartDate: "2026-01-01T00:00:00"
+  ApiBatchSize: 100

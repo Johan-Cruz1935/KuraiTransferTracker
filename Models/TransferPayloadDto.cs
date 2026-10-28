@@ -17,6 +17,9 @@ public sealed class TransferDto
     [JsonPropertyName("external_id")]
     public string ExternalId { get; init; } = string.Empty;
 
+    [JsonPropertyName("module_id")]
+    public string ModuleId { get; init; } = string.Empty;
+
     [JsonPropertyName("business_date")]
     public string BusinessDate { get; init; } = string.Empty;
 
@@ -37,4 +40,10 @@ public sealed class TransferItemDto
 
     [JsonPropertyName("quantity")]
     public string Quantity { get; init; } = string.Empty;
+
+    [JsonPropertyName("unit_price")]
+    public string UnitPrice { get; init; } = string.Empty;
+
+    [JsonPropertyName("total_price")]
+    public string TotalPrice { get; init; } = string.Empty;
 }

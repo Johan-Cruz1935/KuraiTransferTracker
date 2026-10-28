@@ -43,18 +43,45 @@ public sealed class TrackerOptions
     public bool UseProductKeyAsProductId { get; set; } = false;
 
     /// <summary>
-    /// Carpeta local donde se guardan los archivos JSON generados por cada lote de traspasos.
+    /// URL base de la API receptora (ej. "http://192.168.1.252:8000").
     /// </summary>
-    public string JsonOutputDirectory { get; set; } = @"c:\Proyecto3\KuraiTransferTracker\Payloads";
+    public string ApiBaseUrl { get; set; } = "http://192.168.1.252:8000";
 
     /// <summary>
-    /// URL del endpoint API (POST) para enviar automáticamente el body JSON cuando haya un endpoint activo.
-    /// Si está vacío, solo guarda el JSON en la base de datos local y en la carpeta Payloads.
+    /// Ruta del endpoint de sincronización (ej. "/daily-sales/sync").
     /// </summary>
-    public string ApiEndpointUrl { get; set; } = "";
+    public string SyncEndpoint { get; set; } = "/daily-sales/sync";
 
     /// <summary>
-    /// Token Bearer o API Key opcional para autenticación al enviar el JSON.
+    /// Clave del agente para autenticación en la API receptora.
     /// </summary>
-    public string ApiBearerToken { get; set; } = "";
+    public string AgentApiKey { get; set; } = "replace_with_a_long_random_agent_key";
+
+    /// <summary>
+    /// Fecha inicial a partir de la cual se extraen los traspasos (ej. "2026-08-01T00:00:00").
+    /// </summary>
+    public DateTime StartDate { get; set; } = new DateTime(2026, 8, 1, 0, 0, 0);
+
+    /// <summary>
+    /// Cantidad máxima de traspasos por lote al enviar por HTTP POST a la API.
+    /// </summary>
+    public int ApiBatchSize { get; set; } = 100;
+
+    /// <summary>
+    /// Construye la URL completa combinando ApiBaseUrl y SyncEndpoint.
+    /// </summary>
+    public string GetFullEndpointUrl()
+    {
+        if (string.IsNullOrWhiteSpace(ApiBaseUrl))
+        {
+            return string.Empty;
+        }
+
+        string baseUrl = ApiBaseUrl.TrimEnd('/');
+        string endpoint = string.IsNullOrWhiteSpace(SyncEndpoint)
+            ? string.Empty
+            : "/" + SyncEndpoint.TrimStart('/');
+
+        return baseUrl + endpoint;
+    }
 }
